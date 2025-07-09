@@ -50,5 +50,5 @@ License
 This project is licensed under the MIT License.
 Acknowledgments
 
-Dataset: Kaggle Credit Card Fraud Detection
+Dataset: Kaggle Credit Card Fraud Detection: https://www.kaggle.com/datasets/arockiaselciaa/creditcardcsv
 Tools: Scikit-Learn, Optuna, XGBoost, Google Colab
